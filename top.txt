@@ -1,0 +1,4 @@
+"2019 date time","sufi out",IN,"randomnumber","accept","8=FIX.4.2","9=97","35=6","49=ABC","56=CAB","34=14","52=20100204-09:18:42",
+"2019 date time","sufi out",IN,"randomnumber","reject","8=FIX.4.2","9=97","35=6","49=ABC","56=CAB","34=14",
+"2019 date time","sufi out",IN,"randomnumber","entry","8=FIX.4.2","9=97","35=6","49=ABC","56=CAB","34=14","109=SUFI",
+"2019 date time","sufi out",IN,"randomnumber","field","8=FIX.4.2","9=97","35=6","49=ABC","56=CAB","34=14","40=2",
